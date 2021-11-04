@@ -354,7 +354,7 @@ table th {
 }
 
 /* Navbar */
-.navbar {
+.Navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -366,21 +366,21 @@ table th {
   margin-bottom: 1rem;
 }
 
-.navbar ul {
+.Navbar ul {
   display: flex;
 }
 
-.navbar a {
+.Navbar a {
   color: #fff;
   padding: 0.45rem;
   margin: 0 0.25rem;
 }
 
-.navbar a:hover {
+.Navbar a:hover {
   color: var(--light-color);
 }
 
-.navbar .welcome span {
+.Navbar .welcome span {
   margin-right: 0.6rem;
 }
 
